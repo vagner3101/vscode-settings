@@ -1,0 +1,30 @@
+//PHP
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension junstyle.php-cs-fixer
+code --install-extension MehediDracula.php-namespace-resolver
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension liamhammett.inline-parameters
+//PHPUNI
+code --install-extension m1guelpf.better-pest
+code --install-extension hbenl.vscode-test-explorer
+code --install-extension recca0120.vscode-phpunit
+//LARAVEL
+code --install-extension amiralizadeh9480.laravel-extra-intellisense
+code --install-extension austenc.laravel-blade-spacer
+code --install-extension cjhowe7.laravel-blade
+code --install-extension codingyu.laravel-goto-view
+code --install-extension ryannaddy.laravel-artisan
+code --install-extension shufo.vscode-blade-formatter
+code --install-extension mikestead.dotenv
+code --install-extension bradlc.vscode-tailwindcss
+//FILE MANAGER
+code --install-extension patbenatar.advanced-new-file
+code --install-extension **sleistner.vscode-fileutils
+//VISUAL
+code --install-extension iocave.customize-ui
+code --install-extension miguelsolorio.fluent-icons
+code --install-extension o4x.base16-tomorrow
+code --install-extension atomiks.moonlight
+code --install-extension dhedgecock.radical-vscode
+code --install-extension dline.CobaltNext
+code --install-extension arcticicestudio.nord-visual-studio-code
